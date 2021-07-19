@@ -1,0 +1,6 @@
+C:\Users\KB\Desktop\비주얼\0719_method_5\0719_method_5\obj\Debug\0719_method_5.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\비주얼\0719_method_5\0719_method_5\bin\Debug\0719_method_5.exe.config
+C:\Users\KB\Desktop\비주얼\0719_method_5\0719_method_5\bin\Debug\0719_method_5.exe
+C:\Users\KB\Desktop\비주얼\0719_method_5\0719_method_5\bin\Debug\0719_method_5.pdb
+C:\Users\KB\Desktop\비주얼\0719_method_5\0719_method_5\obj\Debug\0719_method_5.exe
+C:\Users\KB\Desktop\비주얼\0719_method_5\0719_method_5\obj\Debug\0719_method_5.pdb
